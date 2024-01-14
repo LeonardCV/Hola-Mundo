@@ -9,4 +9,4 @@ https://www.markdownguide.org/cheat-sheet/
   ![Paisaje](Foto2.jpg)
 
 -Vamos a añadir un link.
-  -{Enlace foto} (https://www.freepik.es/fotos-vectores-gratis/paisajes-hermosos)
+  -{Enlace foto}(https://www.freepik.es/fotos-vectores-gratis/paisajes-hermosos)
